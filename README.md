@@ -1,4 +1,4 @@
-# kiwi-maintenance
+# react-app
 
 Live image detection app using mobile camera based on React Native.
 

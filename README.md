@@ -15,5 +15,9 @@ Live image detection app using mobile camera based on React Native.
 1. Clone the repository `git clone https://github.com/rushil-kapadia/react-app`
 2. Cd into the correct directory `cd react-app`
 3. Install node modules `npm install`
+4. Run with
+```bash
+react-native run-ios
+```
 
 ### React app
